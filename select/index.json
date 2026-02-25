@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Susumu Hirasawa - CODE-COSTARICA",
+  "base_artist": "Susumu Hirasawa",
+  "createdAt": "2026-02-25T17:44:19.520459Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Susumu Hirasawa - Parade",
+      "artist": "Crizz Boi",
+      "has_synced": true,
+      "path": "select/01_Susumu_Hirasawa_-_Parade_Crizz_Boi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Susumu Hirasawa - The Girl In Byakkoya",
+      "artist": "Crizz Boi",
+      "has_synced": true,
+      "path": "select/02_Susumu_Hirasawa_-_The_Girl_In_Byakkoya_Crizz_Boi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BERSERK ~Forces~  by Susumu Hirasawa",
+      "artist": "uritz1107",
+      "has_synced": true,
+      "path": "select/03_BERSERK_~Forces~_by_Susumu_Hirasawa_uritz1107.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Girl in Byakkoya - White Tiger Field Susumu Hirasawa Lyrics in Rom/Jap/Eng",
+      "artist": "EasyCook’N",
+      "has_synced": false,
+      "path": "select/04_The_Girl_in_Byakkoya_-_White_Tiger_Field_Susumu_Hirasawa_Lyrics_in_Rom_Jap_Eng_EasyCook’N.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CODE-COSTARICA",
+      "artist": "平沢 進",
+      "has_synced": false,
+      "path": "select/pl_01_CODE-COSTARICA_平沢_進.txt"
+    }
+  ]
+}
